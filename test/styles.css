@@ -10,7 +10,7 @@
 	.style2,.style3,.abc{
 		background-color: gray;
 		text-align: left;
-		border: 2px solid black;
+		border: 1px solid black;
 		
 		
 		float: left;
@@ -24,8 +24,8 @@
 			padding-bottom: 3px;
 		    width:30%;
             text-align: center;
-            border-left: 2px solid black;
-            border-bottom:2px solid black; 		
+            border-left: 1px solid black;
+            border-bottom:1px solid black; 		
 		 }
          #p1
          { background-color: pink; }
