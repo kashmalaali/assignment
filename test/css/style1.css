@@ -1,0 +1,93 @@
+body
+{
+	font-size:16px;
+	
+	background-color: lightgray;
+	font-family: 'oxygen',sans-serif;
+	margin:0;
+	   
+	
+}
+#header-nav{
+
+	background-color: gray;
+	border-radius: 0;
+	border:0;	
+	border: 1px solid black;
+
+
+}
+.navbar-brand{
+	padding-top: 15px;
+}
+.navbar-brand h1{
+	font-family: 'lora',serif;
+	color: black;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	padding-top: 0px;
+	margin-bottom: 0
+	line-height:.75;
+}
+#nav-list{
+	margin-top: 10px;
+background-color: orange;
+border:1px solid black;
+color:black;
+text-align: center;
+
+}
+	.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 2px solid black;
+	
+
+}
+.navbar-header button.navbar-toggle{
+	clear:both;
+	margin-top: -30px;
+
+}
+li{border:1px solid black;}
+h2{
+	font-family: 'lora',serif;
+	color: black;
+	font-size: 1.5em;
+	font-weight: bold;
+margin-top: 20px;
+	line-height:.75;
+
+
+}
+
+section{
+	background-color: gray;
+	padding-top: 20px;
+	margin-top: 20px;
+	text-align: left;
+		border: 1px solid black;
+		height :1000px;
+		margin-left: 5px;
+		margin-right: 5px;
+		
+		width: 95%;}
+
+		
+
+p{
+padding:10px;
+color: black;
+margin:10px;
+}
+span{
+	text-transform: uppercase;
+	text-align: center;
+	color: black;
+	display: block;
+	font-weight: bold;
+}
+div #man-content  .container{
+	margin-left: 6px
+	margin-right: 6px;
+}
